@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    color: azure;
+    background-color: darkblue;
+}
+img{
+    height: 150px;
+        width: 300px;
+    border:8px solid azure;
+}
